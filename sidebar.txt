@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kaa:home|Door43 (kaa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kaa|d43-kaa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kaa/archive/master.zip|d43-kaa.zip]]
+
+**Recent Changes**
+{{changes>ns = kaa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kaa|Ethnologue data]]
+
